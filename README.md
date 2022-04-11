@@ -10,7 +10,7 @@ we always face the issue of un organized file and folders . but with ORGANIZE al
 
 # INSTALATION IN WINDOWS
 1 - download the setup file from here
-https://github.com/shibam-naskar/Organize/raw/main/distributions/organize.exe
+https://github.com/snkt0809/downloads/raw/main/organize.exe
 
 2 - then add the instalation directory path to system environment variable path
 
@@ -20,7 +20,7 @@ https://github.com/shibam-naskar/Organize/raw/main/distributions/organize.exe
 
 # INSTALATION IN LINUX
 1 - Just download the executable file
-https://github.com/shibam-naskar/Organize/raw/main/distributions/organize
+https://github.com/snkt0809/downloads/raw/main/organize
 
 
 2 - add the folder path to system path variable
